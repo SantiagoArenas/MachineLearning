@@ -27,7 +27,11 @@ This repository contains a collection of projects developed by me over the years
 4. **[C/Microprocessors](C)** 
     - Description: A functioning chess board made with a microprocessor, six switches, a TFG screen and a Bluetooth transmitter.
     - Technologies: C, UART, Assembling.
-    - The final report is availeable in the repository. Here is a [video demo of the result](https://drive.google.com/file/d/1LYFAY7hxjtgApthc-28HQb5enJLajtjB/view?pli=1), although it is spoken in Spanish.   
+    - The final report is availeable in the repository. Here is a [video demo of the result](https://drive.google.com/file/d/1LYFAY7hxjtgApthc-28HQb5enJLajtjB/view?pli=1), although it is spoken in Spanish.
+
+5. **[Networking](Networking/Network_Architecture_Project.pdf)**
+    - Description: A design according to especification of a certain networking system.
+    - Technologies: terminal, TCP/IP, VLSM, CIDR, OSPF, RIP v1/v2, ACL, Router on a stick.
 
 I have completed more projects on each of the previously mentioned areas. Feel free to explore these projects and reach out if you have any questions or need further information. 
 
