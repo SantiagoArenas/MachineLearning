@@ -1,0 +1,3 @@
+
+void InicializarReloj(void);
+
